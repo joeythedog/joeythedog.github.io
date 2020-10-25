@@ -1,0 +1,22 @@
+
+.section{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.background-image{
+	background-image: url("../img/DOG.png");
+	background-size:cover;
+}
+.card{
+	background-color:#ffff99;
+	color:#4d0026;
+}
+.h1-colour{
+	color: white;
+	background-color:black;
+
+}
+.card1{
+	background-color:#004d80;
+	color: white;
+}
